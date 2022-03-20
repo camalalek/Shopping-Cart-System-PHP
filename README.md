@@ -1,2 +1,2 @@
-# Simple-Shopping-Cart-PHP
-A simple Shopping Cart PHP class
+# Shopping-Cart-System-PHP
+A simple shopping cart class developed with PHP (OOP)
